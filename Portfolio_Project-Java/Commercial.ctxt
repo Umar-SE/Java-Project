@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Commercial
+comment1.params=scanner
+comment1.target=void\ readData(java.util.Scanner)
+comment2.params=
+comment2.target=int\ getPayload()
+comment3.params=payload
+comment3.target=void\ setPayload(int)
+comment4.params=
+comment4.target=void\ printDetails()
+numComments=5

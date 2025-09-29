@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Car
+comment1.params=scanner
+comment1.target=void\ readData(java.util.Scanner)
+comment2.params=
+comment2.target=java.lang.String\ getBodyType()
+comment3.params=bodyType
+comment3.target=void\ setBodyType(java.lang.String)
+comment4.params=
+comment4.target=int\ getNoOfDoors()
+comment5.params=noOfDoors
+comment5.target=void\ setNoOfDoors(int)
+comment6.params=
+comment6.target=void\ printDetails()
+numComments=7

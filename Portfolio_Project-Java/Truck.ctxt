@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Truck
+comment1.params=
+comment1.target=Truck()
+comment2.params=scanner
+comment2.target=void\ readData(java.util.Scanner)
+comment3.params=
+comment3.target=java.util.ArrayList\ getAttributes()
+comment4.params=attributes
+comment4.target=void\ setAttributes(java.util.ArrayList)
+comment5.params=
+comment5.target=void\ printDetails()
+numComments=6
